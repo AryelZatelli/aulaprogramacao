@@ -1,0 +1,322 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Uni5Exe06",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaFor.Uni5Exe06",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe05",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaFor.Uni5Exe05",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe23",
+            "request": "launch",
+            "mainClass": "Uni4.switchcase.Uni4Exe23",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe21",
+            "request": "launch",
+            "mainClass": "operadoreslogicos.Uni4Exe21",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe16",
+            "request": "launch",
+            "mainClass": "operadoreslogicos.Uni4Exe16",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe15",
+            "request": "launch",
+            "mainClass": "operadoreslogicos.Uni4Exe15",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe14",
+            "request": "launch",
+            "mainClass": "operadoreslogicos.Uni4Exe14",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe09",
+            "request": "launch",
+            "mainClass": "operadoreslogicos.Uni4Exe09",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1153",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1153",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1151",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1151",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1114",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1114",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1080",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1080",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1075",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1075",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1074",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1074",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1072",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1072",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1059",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1059",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe01",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaFor.Uni5Exe01",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe10",
+            "request": "launch",
+            "mainClass": "operadoreslogicos.Uni4Exe10",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe34",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaWhile.Uni5Exe34",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe24",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaWhile.Uni5Exe24",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe07",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaFor.Uni5Exe07",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe13",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaFor.Uni5Exe13",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe25",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaWhile.Uni5Exe25",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe33",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaDoWhile.Uni5Exe33",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe17",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaWhile.Uni5Exe17",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe16",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaWhile.Uni5Exe16",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe15",
+            "request": "launch",
+            "mainClass": "Uni5.estruturaWhile.Uni5Exe15",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1046",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1046",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1042",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1042",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1037",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1037",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1035",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1035",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni2Exe07",
+            "request": "launch",
+            "mainClass": "Uni2.Uni2Exe07",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni2Exe08",
+            "request": "launch",
+            "mainClass": "Uni2.Uni2Exe08",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni2Exe06",
+            "request": "launch",
+            "mainClass": "Uni2.Uni2Exe06",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni2Exe05",
+            "request": "launch",
+            "mainClass": "Uni2.Uni2Exe05",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni2Exe03",
+            "request": "launch",
+            "mainClass": "Uni2.Uni2Exe03",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni2Exe02",
+            "request": "launch",
+            "mainClass": "Uni2.Uni2Exe02",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni2Exe04",
+            "request": "launch",
+            "mainClass": "Uni2.Uni2Exe04",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe22",
+            "request": "launch",
+            "mainClass": "Uni4.switchcase.Uni4Exe22",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe04",
+            "request": "launch",
+            "mainClass": "estruturaFor.Uni5Exe04",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe03",
+            "request": "launch",
+            "mainClass": "estruturaFor.Uni5Exe03",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe02",
+            "request": "launch",
+            "mainClass": "estruturaFor.Uni5Exe02",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe01",
+            "request": "launch",
+            "mainClass": "estruturaFor.Uni5Exe01",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Exe27",
+            "request": "launch",
+            "mainClass": "switchcase.Uni4Exe27",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
