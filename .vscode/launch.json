@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni6Exe12",
+            "request": "launch",
+            "mainClass": "Uni6Exe12",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe11",
+            "request": "launch",
+            "mainClass": "Uni6Exe11",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe01",
+            "request": "launch",
+            "mainClass": "Uni6.vetores.Uni6Exe01",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe06",
+            "request": "launch",
+            "mainClass": "Uni6Exe06",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe04",
+            "request": "launch",
+            "mainClass": "Uni6Exe04",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe01",
+            "request": "launch",
+            "mainClass": "Uni6Exe01",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
             "name": "Uni5Exe06",
             "request": "launch",
             "mainClass": "Uni5.estruturaFor.Uni5Exe06",
