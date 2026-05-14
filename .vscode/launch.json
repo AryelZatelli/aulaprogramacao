@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni6Exe09",
+            "request": "launch",
+            "mainClass": "Uni6Exe09",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe03",
+            "request": "launch",
+            "mainClass": "Uni6Exe03",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Questão2",
+            "request": "launch",
+            "mainClass": "Questão2",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
             "name": "Uni6Exe12",
             "request": "launch",
             "mainClass": "Uni6Exe12",
