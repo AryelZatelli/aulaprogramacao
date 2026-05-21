@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni6Exe7",
+            "request": "launch",
+            "mainClass": "Uni6Exe7",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe05",
+            "request": "launch",
+            "mainClass": "Uni6Exe05",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1180",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1180",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1176",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1176",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1175",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1175",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1174",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1174",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "atividade1173",
+            "request": "launch",
+            "mainClass": "beecrowd.atividade1173",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe10",
+            "request": "launch",
+            "mainClass": "Uni6Exe10",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe10Ordena",
+            "request": "launch",
+            "mainClass": "Uni6Exe10Ordena",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
             "name": "Uni6Exe09",
             "request": "launch",
             "mainClass": "Uni6Exe09",
