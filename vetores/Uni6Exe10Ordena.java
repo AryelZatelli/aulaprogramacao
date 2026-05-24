@@ -30,7 +30,7 @@ public class Uni6Exe10Ordena {
         for(int cont = 0; cont < n; cont++){
             System.out.printf("%d ", x[cont]);
         }
-
+        sc.close();
     }
 }
 

@@ -31,5 +31,6 @@ public class Uni6Exe7 {
                     }
             }
         }
+        sc.close();
     }
 }

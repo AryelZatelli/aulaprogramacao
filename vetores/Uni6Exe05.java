@@ -45,5 +45,6 @@ public class Uni6Exe05 {
         } else if (pontos <= -10) {
             System.out.println("Vocês se odeiam!");
         }
+        sc.close();
     }
 }

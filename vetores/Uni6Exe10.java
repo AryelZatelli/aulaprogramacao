@@ -104,5 +104,6 @@ public class Uni6Exe10 {
 
         } while (opcao != 6);
 
+        sc.close();
     }
 }

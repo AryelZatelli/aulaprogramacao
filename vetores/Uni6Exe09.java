@@ -61,6 +61,7 @@ public class Uni6Exe09 {
         // escrever a nota da mulher mais jovem
         System.out.println(contaAcima + " mulher(es) acima de 50 anos com nota acima da média = %2.f\n ");
 
+        sc.close();
     }
 }
 

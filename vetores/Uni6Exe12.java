@@ -46,7 +46,7 @@ public class Uni6Exe12 {
             }
             System.out.printf("\n");
         }
-
+        sc.close();
     }
 }
 
