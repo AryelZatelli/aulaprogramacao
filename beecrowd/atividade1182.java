@@ -2,7 +2,7 @@ package beecrowd;
 
 import java.util.Scanner;
 
-public class atividade182 {
+public class atividade1182 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

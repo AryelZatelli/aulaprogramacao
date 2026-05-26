@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni6Exe13",
+            "request": "launch",
+            "mainClass": "Uni6Exe13",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe08",
+            "request": "launch",
+            "mainClass": "Uni6Exe08",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
             "name": "atividade1181",
             "request": "launch",
             "mainClass": "beecrowd.atividade1181",
