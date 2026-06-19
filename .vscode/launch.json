@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni7Exe15",
+            "request": "launch",
+            "mainClass": "Uni7.Uni7Exe15",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Projeto3",
+            "request": "launch",
+            "mainClass": "Projeto3",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni7Exe08",
+            "request": "launch",
+            "mainClass": "Uni7.Uni7Exe08",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni7Exe09",
+            "request": "launch",
+            "mainClass": "Uni7.Uni7Exe09",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni7Exe05",
+            "request": "launch",
+            "mainClass": "Uni7.Uni7Exe05",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni7Exe02",
+            "request": "launch",
+            "mainClass": "Uni7.Uni7Exe02",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
+            "name": "Uni7Exe01",
+            "request": "launch",
+            "mainClass": "Uni7.Uni7Exe01",
+            "projectName": "java_d61bc461"
+        },
+        {
+            "type": "java",
             "name": "Uni6Exe13",
             "request": "launch",
             "mainClass": "Uni6Exe13",
